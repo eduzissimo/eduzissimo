@@ -2,7 +2,8 @@
 
 Um apaixonado por games e programação, nas horas vagas entusiasta do universo! Atualmente estou em uma transição de carreira para a tecnologia e estou animado para compartilhar minha jornada.
 
-🌍 Baseado em São José dos Campos, SP. </ br>
+🌍 Baseado em São José dos Campos, SP.
+
 📧 E-mail: eduardo.a.alves@outlook.com.br
 
 ## 🛠️ Habilidades
