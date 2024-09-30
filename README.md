@@ -15,7 +15,7 @@ Um apaixonado por games e programação, nas horas vagas entusiasta do universo!
 ## 🚀 Principais projetos
 
 - [Projeto Agix](https://github.com/eduzissimo/project-agrix) - Um projeto que fiz com muito carinho na minha jornada reunindo todo meu conhecimento em Java!
-- [Projeto Trybers And Dragons](https://github.com/eduzissimo/Project-TrybersAndDragons) - Outro projeto incrível e divertido pelo motivo de juntar elementos de RPG e programação!
+- [Projeto Trybers And Dragons](https://github.com/eduzissimo/Project-TrybersAndDragons) - Outro projeto incrível e divertido pelo motivo de juntar elementos de RPG e programação! Utilizando Typescript.
 
 ## 🤝 Vamos nos conectar!
 
