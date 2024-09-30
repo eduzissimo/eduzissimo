@@ -1,4 +1,4 @@
-## Olá, sou Eduardo e sejam Bem-vindos ao meu perfil! 👋
+## Olá, sou Eduardo e sejam bem-vindos ao meu github! 👋
 
 Um apaixonado por games e programação, nas horas vagas entusiasta do universo! Atualmente estou em uma transição de carreira para a tecnologia e estou animado para compartilhar minha jornada.
 
