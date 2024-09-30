@@ -9,7 +9,7 @@ Um apaixonado por games e programação, nas horas vagas entusiasta do universo!
 ## 🛠️ Habilidades
 
 - **Linguagens**: Java (com os poderes do Spring), JavaScript (e seus frameworks), TypeScript, Python, e agora desbravando C#!
-- **Testes**: Automatizados e unitários, porque qualidade é tudo!
+- **Testes**: Automatizados e unitários, pra garantir que tudo funcione como o esperado.
 - **Ferramentas**: Docker, MySQL, SQL e uma pitada de segurança nos bancos de dados.
 
 ## 🚀 Principais projetos
